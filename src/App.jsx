@@ -25,7 +25,6 @@ import Chats from "./pages/chats/Chats";
 import Marketplace from "./pages/marketplace/Marketplace";
 import Sell from "./pages/marketplace/Sell";
 import MoreInfo from "./pages/marketplace/MoreInfo"
-import { ChatEngine } from 'react-chat-engine';
 import AboutTeam from "./pages/aboutTeam/AboutTeam";
 import AlumniMap from "./pages/alumniMap/AlumniMap";
 import 'leaflet/dist/leaflet.css';
