@@ -75,7 +75,7 @@ const AboutTeam = () => {
           <p className="footer-title">For any queries, reach us at:</p>
           <a href="mailto:lnmiitcampusconnect@gmail.com" className="footer-link">
             <FaEnvelope className="footer-icon" />
-            lnmiitcampusconnect@gmail.com
+            lnmiitcampusconnect@lnmiit.ac.in
           </a>
         </div>
         <p className="copyright">© 2025 LUCS. All rights reserved.</p>
